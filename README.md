@@ -2,8 +2,9 @@
 
 
 # Install
+```sh
 git clone https://github.com/viper0670/Neptune-ddoser.git
-
+```
  # Usage
  
 NEPTUNE DDOS v1.1 
