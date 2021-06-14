@@ -4,6 +4,7 @@
 # Install
 ```sh
 git clone https://github.com/viper0670/Neptune-ddoser.git
+cd Neptune-ddoser
 ```
  # Usage
  
