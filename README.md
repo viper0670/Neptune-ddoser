@@ -6,7 +6,7 @@ git clone https://github.com/viper0670/Neptune-ddoser.git
 
  # Usage
  
-NEPTUNE DDOS v0.1 by Dylan Donnelly 
+NEPTUNE DDOS v1.1 
 
  USAGE: ./neptune.py <url> [OPTIONS]
 
